@@ -72,9 +72,9 @@ bmi\_calculator/
 
 2. **Install the Requirements**:
 
-   ```bash
+   ````bash
    pip install -r requirements.txt
-````
+
 
 3. **Run the Application**:
 
