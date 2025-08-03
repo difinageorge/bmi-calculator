@@ -41,9 +41,7 @@ bmi\_calculator/
 ├── gui/
 │   ├── login\_window\.py      # Login window code
 │   ├── bmi\_calculator.py    # BMI calculator window
-│   └── styles.py            # (Optional) Style sheet for custom colors/themes
-├── database/
-│   └── db\_handler.py        # SQLite connection, user/BMI insert/select logic      
+│   └── styles.py            # (Optional) Style sheet for custom colors/themes     
 ├── data/
 │   └── bmi\_data.db          # SQLite database file (auto-created)
 ├── requirements.txt         # Required Python packages
